@@ -1,1 +1,5 @@
-{}
+{
+  "pm":{
+    "description":"Test package for package manager"
+  }
+}
